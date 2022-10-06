@@ -1,0 +1,10 @@
+C:\Users\hamid.mammadov\Desktop\P229\P229desktopApp\P229desktopApp\bin\Debug\P229desktopApp.exe.config
+C:\Users\hamid.mammadov\Desktop\P229\P229desktopApp\P229desktopApp\bin\Debug\P229desktopApp.exe
+C:\Users\hamid.mammadov\Desktop\P229\P229desktopApp\P229desktopApp\bin\Debug\P229desktopApp.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P229desktopApp\P229desktopApp\obj\Debug\P229desktopApp.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P229\P229desktopApp\P229desktopApp\obj\Debug\P229desktopApp.Form1.resources
+C:\Users\hamid.mammadov\Desktop\P229\P229desktopApp\P229desktopApp\obj\Debug\P229desktopApp.Properties.Resources.resources
+C:\Users\hamid.mammadov\Desktop\P229\P229desktopApp\P229desktopApp\obj\Debug\P229desktopApp.csproj.GenerateResource.cache
+C:\Users\hamid.mammadov\Desktop\P229\P229desktopApp\P229desktopApp\obj\Debug\P229desktopApp.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P229desktopApp\P229desktopApp\obj\Debug\P229desktopApp.exe
+C:\Users\hamid.mammadov\Desktop\P229\P229desktopApp\P229desktopApp\obj\Debug\P229desktopApp.pdb

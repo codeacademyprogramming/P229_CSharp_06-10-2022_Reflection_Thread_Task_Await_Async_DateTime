@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\P229Reflection\bin\Debug\netcoreapp3.1\P229Reflection.exe
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\P229Reflection\bin\Debug\netcoreapp3.1\P229Reflection.deps.json
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\P229Reflection\bin\Debug\netcoreapp3.1\P229Reflection.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\P229Reflection\bin\Debug\netcoreapp3.1\P229Reflection.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\P229Reflection\bin\Debug\netcoreapp3.1\P229Reflection.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\P229Reflection\bin\Debug\netcoreapp3.1\P229Reflection.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\P229Reflection\obj\Debug\netcoreapp3.1\P229Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\P229Reflection\obj\Debug\netcoreapp3.1\P229Reflection.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\P229Reflection\obj\Debug\netcoreapp3.1\P229Reflection.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\P229Reflection\obj\Debug\netcoreapp3.1\P229Reflection.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\P229Reflection\obj\Debug\netcoreapp3.1\P229Reflection.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\P229Reflection\obj\Debug\netcoreapp3.1\P229Reflection.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\P229Reflection\obj\Debug\netcoreapp3.1\P229Reflection.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\P229Reflection\obj\Debug\netcoreapp3.1\P229Reflection.csproj.AssemblyReference.cache

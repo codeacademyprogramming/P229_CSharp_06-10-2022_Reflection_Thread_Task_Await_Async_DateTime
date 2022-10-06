@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\SynchronAsynchron\bin\Debug\netcoreapp3.1\SynchronAsynchron.exe
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\SynchronAsynchron\bin\Debug\netcoreapp3.1\SynchronAsynchron.deps.json
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\SynchronAsynchron\bin\Debug\netcoreapp3.1\SynchronAsynchron.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\SynchronAsynchron\bin\Debug\netcoreapp3.1\SynchronAsynchron.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\SynchronAsynchron\bin\Debug\netcoreapp3.1\SynchronAsynchron.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\SynchronAsynchron\bin\Debug\netcoreapp3.1\SynchronAsynchron.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\SynchronAsynchron\obj\Debug\netcoreapp3.1\SynchronAsynchron.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\SynchronAsynchron\obj\Debug\netcoreapp3.1\SynchronAsynchron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\SynchronAsynchron\obj\Debug\netcoreapp3.1\SynchronAsynchron.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\SynchronAsynchron\obj\Debug\netcoreapp3.1\SynchronAsynchron.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\SynchronAsynchron\obj\Debug\netcoreapp3.1\SynchronAsynchron.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\SynchronAsynchron\obj\Debug\netcoreapp3.1\SynchronAsynchron.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\SynchronAsynchron\obj\Debug\netcoreapp3.1\SynchronAsynchron.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22906102022\SynchronAsynchron\obj\Debug\netcoreapp3.1\SynchronAsynchron.genruntimeconfig.cache

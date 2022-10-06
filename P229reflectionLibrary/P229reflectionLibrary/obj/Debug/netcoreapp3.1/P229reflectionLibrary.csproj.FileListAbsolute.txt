@@ -1,0 +1,9 @@
+C:\Users\hamid.mammadov\Desktop\P229reflectionLibrary\P229reflectionLibrary\bin\Debug\netcoreapp3.1\P229reflectionLibrary.deps.json
+C:\Users\hamid.mammadov\Desktop\P229reflectionLibrary\P229reflectionLibrary\bin\Debug\netcoreapp3.1\P229reflectionLibrary.dll
+C:\Users\hamid.mammadov\Desktop\P229reflectionLibrary\P229reflectionLibrary\bin\Debug\netcoreapp3.1\P229reflectionLibrary.pdb
+C:\Users\hamid.mammadov\Desktop\P229reflectionLibrary\P229reflectionLibrary\obj\Debug\netcoreapp3.1\P229reflectionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229reflectionLibrary\P229reflectionLibrary\obj\Debug\netcoreapp3.1\P229reflectionLibrary.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229reflectionLibrary\P229reflectionLibrary\obj\Debug\netcoreapp3.1\P229reflectionLibrary.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229reflectionLibrary\P229reflectionLibrary\obj\Debug\netcoreapp3.1\P229reflectionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229reflectionLibrary\P229reflectionLibrary\obj\Debug\netcoreapp3.1\P229reflectionLibrary.dll
+C:\Users\hamid.mammadov\Desktop\P229reflectionLibrary\P229reflectionLibrary\obj\Debug\netcoreapp3.1\P229reflectionLibrary.pdb
